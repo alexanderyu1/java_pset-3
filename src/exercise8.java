@@ -14,7 +14,7 @@ public class exercise8 {
         in.close();
 
         int totalPeople = students + teachers;
-        int buses = (totalPeople / capacity);
+        int buses = (totalPeople + capacity - 1) / capacity;
         int overflow = totalPeople % capacity;
 
         System.out.println("\n" + "Buses required      : " + buses);
