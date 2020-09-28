@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise3 {
+public class exercise4 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -11,12 +11,12 @@ public class exercise3 {
 
         in.close();
 
-        double widthInMillimeters = widthInInches * 2.54 * 10;
-        double heightInMillimeters = heightInInches * 2.54 * 10;
+        double widthInCentimeters = widthInInches * 2.54;
+        double heightInCentimeters = heightInInches * 2.54;
 
-        double result = widthInMillimeters * heightInMillimeters;
+        double result = 2 * widthInCentimeters + 2 * heightInCentimeters;
 
         System.out.printf("\n" + "%,.2f", result);
-        System.out.print(" square millimeters.");
+        System.out.print(" centimeters.");
     }
 }

@@ -26,23 +26,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.exercise3">
-    <configuration name="exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1" />
+  <component name="RunManager" selected="Application.exercise8">
+    <configuration name="exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4" />
       <module name="java_pset-3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2" />
+    <configuration name="exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise5" />
       <module name="java_pset-3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise3" />
+    <configuration name="exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise6" />
+      <module name="java_pset-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise7" />
+      <module name="java_pset-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise8" />
       <module name="java_pset-3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -50,9 +64,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercise3" />
-        <item itemvalue="Application.exercise2" />
-        <item itemvalue="Application.exercise1" />
+        <item itemvalue="Application.exercise8" />
+        <item itemvalue="Application.exercise7" />
+        <item itemvalue="Application.exercise6" />
+        <item itemvalue="Application.exercise5" />
+        <item itemvalue="Application.exercise4" />
       </list>
     </recent_temporary>
   </component>
@@ -68,22 +84,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="322" key="GridCell.Tab.0.bottom" timestamp="1601238986783">
+    <state width="914" height="322" key="GridCell.Tab.0.bottom" timestamp="1601264353164">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1601238986783" />
-    <state width="914" height="322" key="GridCell.Tab.0.center" timestamp="1601238986782">
+    <state width="914" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1601264353164" />
+    <state width="914" height="322" key="GridCell.Tab.0.center" timestamp="1601264353164">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1601238986782" />
-    <state width="914" height="322" key="GridCell.Tab.0.left" timestamp="1601238986782">
+    <state width="914" height="322" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1601264353164" />
+    <state width="914" height="322" key="GridCell.Tab.0.left" timestamp="1601264353164">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1601238986782" />
-    <state width="914" height="322" key="GridCell.Tab.0.right" timestamp="1601238986782">
+    <state width="914" height="322" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1601264353164" />
+    <state width="914" height="322" key="GridCell.Tab.0.right" timestamp="1601264353164">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601238986782" />
+    <state width="914" height="322" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601264353164" />
     <state width="914" height="395" key="GridCell.Tab.1.bottom" timestamp="1601238941142">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -100,15 +116,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="914" height="395" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601238941142" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/exercise1.java</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="1257" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601244716429">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1257" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1601244716429" />
   </component>
 </project>
