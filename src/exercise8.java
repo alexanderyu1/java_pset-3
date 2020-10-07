@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise8 {
+public class Exercise8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -18,6 +18,6 @@ public class exercise8 {
         int overflow = totalPeople % capacity;
 
         System.out.println("\n" + "Buses required      : " + buses);
-        System.out.print("Overflow passengers : " + overflow);
+        System.out.println("Overflow passengers : " + overflow);
     }
 }

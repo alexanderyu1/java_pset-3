@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise6 {
+public class Exercise6 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -27,6 +27,6 @@ public class exercise6 {
         double result = hours * wage;
 
         System.out.printf("\n" + "$" + "%,.2f", result);
-        System.out.print(".");
+        System.out.println(".");
     }
 }

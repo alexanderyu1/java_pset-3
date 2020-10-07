@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise7 {
+public class Exercise7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -23,7 +23,7 @@ public class exercise7 {
         double result = (salaryAfter401k - (salaryAfter401k * (taxPercentFederalDecimal + taxPercentStateDecimal))) / 24;
 
         System.out.printf("\n" + "$" + "%,.2f", result);
-        System.out.print(".");
+        System.out.println(".");
 
 
     }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise4 {
+public class Exercise4 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -17,6 +17,6 @@ public class exercise4 {
         double result = 2 * widthInCentimeters + 2 * heightInCentimeters;
 
         System.out.printf("\n" + "%,.2f", result);
-        System.out.print(" centimeters.");
+        System.out.println(" centimeters.");
     }
 }

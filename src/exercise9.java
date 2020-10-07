@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise9 {
+public class Exercise9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -18,6 +18,6 @@ public class exercise9 {
         System.out.print("\n" + "Quarters : " + quarters);
         System.out.print("\n" + "Dimes    : " + dimes);
         System.out.print("\n" + "Nickels  : " + nickels);
-        System.out.print("\n" + "Pennies  : " + pennies);
+        System.out.println("\n" + "Pennies  : " + pennies);
     }
 }

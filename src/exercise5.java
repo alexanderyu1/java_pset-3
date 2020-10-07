@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise5 {
+public class Exercise5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -26,6 +26,6 @@ public class exercise5 {
         double result = homeworkAverage + quizAverage + testAverage;
 
         System.out.printf("\n" + "%.2f", result);
-        System.out.print("%.");
+        System.out.println("%.");
     }
 }
