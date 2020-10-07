@@ -18,6 +18,6 @@ public class exercise8 {
         int overflow = totalPeople % capacity;
 
         System.out.println("\n" + "Buses required      : " + buses);
-        System.out.println("Overflow passengers : " + overflow);
+        System.out.print("Overflow passengers : " + overflow);
     }
 }

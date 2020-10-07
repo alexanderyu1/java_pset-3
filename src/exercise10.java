@@ -12,7 +12,7 @@ public class exercise10 {
         double temperatureCelsius = (temperatureFahrenheit - 32) * (5/9f);
         double temperatureKelvin = ((temperatureFahrenheit - 32) * (5/9f)) + 273.15;
 
-        System.out.printf("\n" + "celsius : " + "%,.2f", temperatureCelsius);
+        System.out.printf("\n" + "Celsius : " + "%,.2f", temperatureCelsius);
         System.out.printf("\n" + "Kelvin  : " + "%,.2f", temperatureKelvin);
     }
 }
