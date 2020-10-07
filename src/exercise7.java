@@ -7,20 +7,20 @@ public class exercise7 {
         System.out.print("Salary  : ");
         double salary = in.nextDouble();
         System.out.print("401(k)  : ");
-        double fourOhOneK = in.nextDouble();
+        double taxPercent401K = in.nextDouble();
         System.out.print("Federal : ");
-        double federal = in.nextDouble();
+        double taxPercentFederal = in.nextDouble();
         System.out.print("State   : ");
-        double state = in.nextDouble();
+        double taxPercentState = in.nextDouble();
 
         in.close();
 
-        double fourOhOneKDecimal = fourOhOneK / 100;
-        double federalDecimal = federal / 100;
-        double stateDecimal = state / 100;
+        double taxPercent401KDecimal = taxPercent401K / 100;
+        double taxPercentFederalDecimal = taxPercentFederal / 100;
+        double taxPercentStateDecimal = taxPercentState / 100;
 
-        double salaryAfter401k = (salary - (salary * fourOhOneKDecimal));
-        double result = (salaryAfter401k - (salaryAfter401k * (federalDecimal + stateDecimal))) / 24;
+        double salaryAfter401k = (salary - (salary * taxPercent401KDecimal));
+        double result = (salaryAfter401k - (salaryAfter401k * (taxPercentFederalDecimal + taxPercentStateDecimal))) / 24;
 
         System.out.printf("\n" + "$" + "%,.2f", result);
         System.out.print(".");

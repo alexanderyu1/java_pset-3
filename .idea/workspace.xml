@@ -26,23 +26,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.exercise8">
-    <configuration name="exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4" />
+  <component name="RunManager" selected="Application.exercise1">
+    <configuration name="exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1" />
       <module name="java_pset-3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise5" />
-      <module name="java_pset-3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise6" />
+    <configuration name="exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise10" />
       <module name="java_pset-3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,13 +55,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise9" />
+      <module name="java_pset-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise1" />
+        <item itemvalue="Application.exercise10" />
+        <item itemvalue="Application.exercise9" />
         <item itemvalue="Application.exercise8" />
         <item itemvalue="Application.exercise7" />
-        <item itemvalue="Application.exercise6" />
-        <item itemvalue="Application.exercise5" />
-        <item itemvalue="Application.exercise4" />
       </list>
     </recent_temporary>
   </component>
@@ -84,22 +84,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="322" key="GridCell.Tab.0.bottom" timestamp="1601265227133">
+    <state x="602" y="315" key="FileChooserDialogImpl" timestamp="1601398868586">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1601265227133" />
-    <state width="914" height="322" key="GridCell.Tab.0.center" timestamp="1601265227133">
+    <state x="602" y="315" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1601398868586" />
+    <state width="914" height="322" key="GridCell.Tab.0.bottom" timestamp="1602039586183">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1601265227133" />
-    <state width="914" height="322" key="GridCell.Tab.0.left" timestamp="1601265227133">
+    <state width="914" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1602039586183" />
+    <state width="914" height="322" key="GridCell.Tab.0.center" timestamp="1602039586183">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1601265227133" />
-    <state width="914" height="322" key="GridCell.Tab.0.right" timestamp="1601265227133">
+    <state width="914" height="322" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1602039586183" />
+    <state width="914" height="322" key="GridCell.Tab.0.left" timestamp="1602039586183">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="322" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1601265227133" />
+    <state width="914" height="322" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1602039586183" />
+    <state width="914" height="322" key="GridCell.Tab.0.right" timestamp="1602039586183">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="322" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1602039586183" />
     <state width="914" height="395" key="GridCell.Tab.1.bottom" timestamp="1601238941142">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -120,5 +124,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1257" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1601267212117" />
+    <state x="205" y="194" key="new project wizard" timestamp="1601945056019">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="205" y="194" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1601945056019" />
   </component>
 </project>

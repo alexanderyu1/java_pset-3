@@ -19,11 +19,11 @@ public class exercise5 {
 
         in.close();
 
-        double homeworkAvg = 0.15 * ((homework1 + homework2 + homework3) / 3);
-        double quizAvg = 0.35 * ((quiz1 + quiz2) / 2);
-        double testAvg = 0.50 * (test1);
+        double homeworkAverage = 0.15 * ((homework1 + homework2 + homework3) / 3);
+        double quizAverage = 0.35 * ((quiz1 + quiz2) / 2);
+        double testAverage = 0.50 * (test1);
 
-        double result = homeworkAvg + quizAvg + testAvg;
+        double result = homeworkAverage + quizAverage + testAverage;
 
         System.out.printf("\n" + "%.2f", result);
         System.out.print("%.");

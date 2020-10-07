@@ -23,7 +23,7 @@ public class exercise6 {
 
         in.close();
 
-        double hours = monday + tuesday + wednesday + thursday+ friday + saturday + sunday;
+        double hours = monday + tuesday + wednesday + thursday + friday + saturday + sunday;
         double result = hours * wage;
 
         System.out.printf("\n" + "$" + "%,.2f", result);
